@@ -91,14 +91,14 @@ label {
 }
 
 
-/* #title {
+#title {
   font-family: 'Merriweather', serif;
   font-weight: 900;
   text-shadow: -5px 5px #6B46C1,
     -8px 8px #68D391,
     -12px 12px #F6E05E;
   animation: slidein .5s ease;
-} */
+}
 
 @keyframes slidein {
   from {
